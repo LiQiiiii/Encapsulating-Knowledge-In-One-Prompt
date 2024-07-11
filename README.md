@@ -13,3 +13,10 @@ Qi Li&emsp;Runpeng Yu&emsp;Xinchao Wang<sup>&dagger;</sup>
 ---
 ## Overview
 ![overall_structure](./datafree/ECCV2024_KiOP_pipeline.jpg)
+
+## Installation & Environment Preparation
+1.
+```bash
+git clone https://github.com/LiQiiiii/Encapsulating-Knowledge-In-One-Prompt.git
+
+
