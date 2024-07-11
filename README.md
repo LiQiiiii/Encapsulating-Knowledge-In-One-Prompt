@@ -1,0 +1,1 @@
+# Encapsulating-Knowledge-In-One-Prompt
