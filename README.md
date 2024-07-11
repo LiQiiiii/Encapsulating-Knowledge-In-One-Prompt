@@ -27,10 +27,6 @@ git clone https://github.com/LiQiiiii/Encapsulating-Knowledge-In-One-Prompt.git
 cd Encapsulating-Knowledge-In-One-Prompt
 ```
 
-```
-pip install -r requirements.txt
-```
-
 2. Prepare the dataset and models. You can use your own models and dataset. For quick start, we provide several models and datasets, which can be downloaded directly from google drive:
 
 ```
