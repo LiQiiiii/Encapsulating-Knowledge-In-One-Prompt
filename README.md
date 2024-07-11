@@ -51,3 +51,12 @@ unzip KiOP_models.zip
 unzip KiOP_data.zip
 ```
 
+## Training & Evaluation
+
+We provide several scripts in ```./scripts```. For example, for running KiOP-B, you may use the ```KiOP_B.sh``` as follows:
+
+```
+sh ./scripts/KiOP_B.sh
+```
+
+You can adjust the hyperparameters to customize your setup.
