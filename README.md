@@ -59,3 +59,18 @@ We provide several scripts in ```./scripts```. For example, for running KiOP-B, 
 ```
 sh ./scripts/KiOP_B.sh
 ```
+
+## Citation
+
+If you finding our work interesting or helpful to you, please cite as follows:
+
+```
+@misc{li2024...,
+      title={Encapsulating Knowledge in One Prompt}, 
+      author={Qi Li and Runpeng Yu and Xinchao Wang},
+      year={2024},
+      eprint={****.*****},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
