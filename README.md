@@ -12,4 +12,4 @@ Qi Li&emsp;Runpeng Yu&emsp;Xinchao Wang<sup>&dagger;</sup>
 
 ---
 ## Overview
-![overall_structure](./datafree/ECCV2024_KiOP_pipeline.pdf)
+![overall_structure](./datafree/ECCV2024_KiOP_pipeline.jpg)
