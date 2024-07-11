@@ -42,11 +42,11 @@ pip install -r requirements.txt
 2. Prepare the dataset and models. You can use your own models and dataset. For quick start, we provide several models and datasets, which can be downloaded directly from google drive:
 
 ```
-gdown https://drive.google.com/file/d/18XDK2fdhCQuwGm4sJntfSvESpbZEv1bY/view?usp=drive_link
+gdown https://drive.google.com/uc?id=19o2EItRw-LOJUdjDf-mOz0zh0QalF8wj
 ```
 
 ```
-gdown https://drive.google.com/file/d/19o2EItRw-LOJUdjDf-mOz0zh0QalF8wj/view?usp=drive_link
+gdown https://drive.google.com/uc?id=18XDK2fdhCQuwGm4sJntfSvESpbZEv1bY
 ```
 
 ```
