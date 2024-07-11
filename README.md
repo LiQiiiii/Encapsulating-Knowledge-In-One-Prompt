@@ -10,3 +10,6 @@ Qi Li&emsp;Runpeng Yu&emsp;Xinchao Wang<sup>&dagger;</sup>
     <sup>&dagger;</sup>corresponding author 
 </div>
 
+---
+## Overview
+![overall_structure](./datafree/ECCV2024_KiOP_pipeline.pdf)
