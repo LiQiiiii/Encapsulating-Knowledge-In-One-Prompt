@@ -17,7 +17,7 @@ Qi Li&emsp;Runpeng Yu&emsp;Xinchao Wang<sup>&dagger;</sup>
 
 ## Installation & Preparation
 
-1. Clone the repo and prepare the virtual environment.
+1. Clone the repo.
 
 ```
 git clone https://github.com/LiQiiiii/Encapsulating-Knowledge-In-One-Prompt.git
