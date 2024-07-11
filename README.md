@@ -1,4 +1,4 @@
-
+<div align="center">
 <h1>Encapsulating Knowledge in One Prompt</h1>
 
 <div>
@@ -31,7 +31,9 @@ cd Encapsulating-Knowledge-In-One-Prompt
 pip install -r requirements.txt
 ```
 
+<div style="text-align: left;">
 2. Prepare the dataset and models. You can use your own models and dataset. For quick stark, we provide several models and datasets, which can be download directly from google drive:
+</div>
 
 ```
 gdown https://drive.google.com/file/d/18XDK2fdhCQuwGm4sJntfSvESpbZEv1bY/view?usp=drive_link
