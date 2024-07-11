@@ -13,11 +13,12 @@ Qi Li&emsp;Runpeng Yu&emsp;Xinchao Wang<sup>&dagger;</sup>
 ---
 ![overall_structure](./datafree/ECCV2024_KiOP_pipeline.jpg)
 
-<div style="text-align: left;">
 
 ## Installation & Environment Preparation
 
+<div style="text-align: left;">
 1. Clone the repo and prepare the virtual environment.
+</div>
 
 ```
 git clone https://github.com/LiQiiiii/Encapsulating-Knowledge-In-One-Prompt.git
@@ -48,5 +49,5 @@ unzip KiOP_models.zip
 ```
 unzip KiOP_data.zip
 ```
-</div>
+
 
