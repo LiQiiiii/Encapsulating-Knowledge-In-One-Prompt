@@ -11,8 +11,9 @@ Qi Li&emsp;Runpeng Yu&emsp;Xinchao Wang<sup>&dagger;</sup>
 </div>
 
 ---
-## Overview
 ![overall_structure](./datafree/ECCV2024_KiOP_pipeline.jpg)
+
+<div style="text-align: left;">
 
 ## Installation & Environment Preparation
 
@@ -47,3 +48,5 @@ unzip KiOP_models.zip
 ```
 unzip KiOP_data.zip
 ```
+</div>
+
