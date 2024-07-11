@@ -17,7 +17,7 @@ Qi Li&emsp;Runpeng Yu&emsp;Xinchao Wang<sup>&dagger;</sup>
 
 ## Installation & Preparation
 
-1. Clone the repo.
+1. Clone the repo and prepare the virtual environment.
 
 ```
 git clone https://github.com/LiQiiiii/Encapsulating-Knowledge-In-One-Prompt.git
@@ -25,6 +25,18 @@ git clone https://github.com/LiQiiiii/Encapsulating-Knowledge-In-One-Prompt.git
 
 ```
 cd Encapsulating-Knowledge-In-One-Prompt
+```
+
+```
+conda create -n kiop python=3.10.0
+```
+
+```
+conda activate kiop
+```
+
+```
+pip install -r requirements.txt
 ```
 
 2. Prepare the dataset and models. You can use your own models and dataset. For quick start, we provide several models and datasets, which can be downloaded directly from google drive:
