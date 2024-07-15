@@ -85,6 +85,6 @@ If you finding our work interesting or helpful to you, please cite as follows:
 
 ## Acknowledgements
 
-This implementation was built on top of the code from [ILM-VP](https://github.com/OPTML-Group/ILM-VP) and [CMI](https://github.com/zju-vipa/CMI). We would like to express our gratitude to the authors of these repositories.
+This implementation is built on top of the code from [ILM-VP](https://github.com/OPTML-Group/ILM-VP) and [CMI](https://github.com/zju-vipa/CMI). We would like to express our gratitude to the authors of these repositories.
 
 
