@@ -82,3 +82,14 @@ If you finding our work interesting or helpful to you, please cite as follows:
       primaryClass={cs.CV}
 }
 ```
+
+## Acknowledgements
+
+This project was built on top of the code from the following repositories:
+
+- [Repository 1](https://github.com/OPTML-Group/ILM-VP)
+- [Repository 2](https://github.com/zju-vipa/CMI)
+
+We would like to express our gratitude to the authors of these repositories for their valuable contributions.
+
+
