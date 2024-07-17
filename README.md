@@ -10,10 +10,12 @@ Qi Li&emsp;Runpeng Yu&emsp;Xinchao Wang<sup>&dagger;</sup>
 </div>
 </div>
 
-<div>
-<a target="_blank" href="https://arxiv.org/abs/2407.11902">
-  <img src="https://img.shields.io/badge/arXiv-2312.17142-b31b1b.svg" alt="arXiv Paper"/>
-</a>
+<div style="text-align: center;">
+  <a target="_blank" href="https://arxiv.org/abs/2407.11902">
+    <img src="https://img.shields.io/badge/arXiv-2312.17142-b31b1b.svg" alt="arXiv Paper"/>
+  </a>
+</div>
+
     
 ---
 ![overall_structure](./datafree/ECCV2024_KiOP_pipeline.jpg)
