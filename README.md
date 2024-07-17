@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/arXiv-2312.17142-b31b1b.svg" alt="arXiv Paper"/>
 </a>
 </div>
-</div>
 
 <div>
 Qi Li&emsp;Runpeng Yu&emsp;Xinchao Wang<sup>&dagger;</sup>
