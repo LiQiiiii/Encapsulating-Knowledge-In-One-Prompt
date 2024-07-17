@@ -73,11 +73,11 @@ sh ./scripts/KiOP_B.sh
 If you finding our work interesting or helpful to you, please cite as follows:
 
 ```
-@misc{li2024...,
+@misc{li2024encapsulatingknowledgeprompt,
       title={Encapsulating Knowledge in One Prompt}, 
       author={Qi Li and Runpeng Yu and Xinchao Wang},
       year={2024},
-      eprint={****.*****},
+      eprint={2407.11902},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
