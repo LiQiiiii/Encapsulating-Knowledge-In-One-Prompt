@@ -82,13 +82,13 @@ sh ./scripts/KiOP_B.sh
 If you finding our work interesting or helpful to you, please cite as follows:
 
 ```
-@misc{li2024encapsulatingknowledgeprompt,
-      title={Encapsulating Knowledge in One Prompt}, 
-      author={Qi Li and Runpeng Yu and Xinchao Wang},
-      year={2024},
-      eprint={2407.11902},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{li2024encapsulating,
+  title={Encapsulating Knowledge in One Prompt},
+  author={Li, Qi and Yu, Runpeng and Wang, Xinchao},
+  booktitle={European Conference on Computer Vision},
+  pages={215--232},
+  year={2024},
+  organization={Springer}
 }
 ```
 
